@@ -39,12 +39,16 @@ class _HomePageState extends State<HomePage> {
             color: _index == 0 ? Colors.white : Colors.black,
           ),
           Icon(
-            Icons.favorite,
+            Icons.auto_awesome_mosaic_rounded,
             color: _index == 1 ? Colors.white : Colors.black,
           ),
           Icon(
-            Icons.settings,
+            Icons.update,
             color: _index == 2 ? Colors.white : Colors.black,
+          ),
+          Icon(
+            Icons.account_circle,
+            color: _index == 3 ? Colors.white : Colors.black,
           ),
         ],
       ),
