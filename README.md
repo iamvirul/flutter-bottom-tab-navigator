@@ -1,4 +1,4 @@
-# taxi_app
+# bottom-tab-navigator
 
 A new Flutter project.
 
